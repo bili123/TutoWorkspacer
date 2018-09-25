@@ -20,9 +20,11 @@ Really missing/to be done: Error handling, cancel button, help, producing less r
 
 We have a post about TutoWorkspacer on our blog [well, we will have, github first - link follows].
 
-**Screenshot:**
+**Screenshots:**
 
 ![Screenshot](TutoWorkspacer_screenshot.png)
+
+![calc-screenshot](screenshot_calc.png)
 
 **License:** 2-Clause-BSD
 
