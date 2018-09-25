@@ -1,4 +1,5 @@
-TutoWorkspacer
+TutoWorkspacer 0.1_alpha
+
 Very simple tool for Windows to save and restore size and position of selected windows and starting the according software as well. TutoWorkspacer just creates AutoHotkey-scripts you can use as usual - and is an AutoHotkey-script itself. 
 
 Warning: TutoWorkspacer is primarily made for my personal usage and an AutoHotkey post on our blog. State of today it's very very very (in fact, we need some more of those guys ..) alpha and I'm even not a developer ;) But it works and maybe someone finds it useful. Or at least a line or so.
