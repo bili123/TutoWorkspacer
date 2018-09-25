@@ -38,13 +38,14 @@ MsgBox, %Title% wurde hinzugefügt. ; ... have been added
 ; write the script entry for the last clicked window 
 FileAppend, ifWinNotExist ahk_exe %Exe%`n{Run`, %FullExe%`nWinWait`, ahk_class %Class%`nWinMove`, ahk_class %Class%`, `, %X%`, %Y%`, %Width%`, %Height%`n}`nelse`nWinMove`, ahk_class %Class%`, `, %X%`, %Y%`, %Width%`, %Height%`n`n`n,%FensterDaten%.ahk
 ; response in the GUI
-GuiControl, , ..., Hinzugefügt:`n%Class%
+;GuiControl, , ..., Hinzugefügt:`n%Title%
+GuiControl, Text, Static1, %Title%
 return
 
 ; finish button actions
 finish:
 ; append final return and linebreak, reset texts in GUI 
 FileAppend, return`n, %FensterDaten%.ahk
-GuiControl, , ..., Nächstes Projekt!
+GuiControl, , Static1, Nächstes Projekt!
 GuiControl, , Edit1, MeinNeuesSkript
 return
