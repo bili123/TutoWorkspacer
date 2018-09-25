@@ -4,11 +4,11 @@ Very simple tool for Windows to save and restore size and position of selected w
 
 **Warning:** TutoWorkspacer is primarily made for my personal usage and an AutoHotkey post on our blog. State of today it's very very very (in fact, we need some more of those guys ..) alpha and I'm even not a developer ;) But it works and maybe someone finds it useful. Or at least a line or so.
 
-Prerequisites: Install AutoHotkey.
+**Prerequisites:** Install AutoHotkey.
 
 Really missing/to be done: Error handling, cancel button, help, producing less redundant script code, testing on other systems.
 
-Usage:
+**Usage:**
 1. Place windows as you like.
 2. Start TutoWorkspacer.
 3. Type a name for your script, e.g. "MyWorkspace".
@@ -20,6 +20,10 @@ Usage:
 
 We have a post about TutoWorkspacer on our blog [well, we will have, github first - link follows].
 
-License: 2-Clause-BSD
+**Screenshot:**
 
-Icon: Copyright by Tutonaut.de 
+![Screenshot](TutoWorkspacer_screenshot.png)
+
+**License:** 2-Clause-BSD
+
+**Icon:** Copyright by [Tutonaut.de](https://www.tutonaut.de) 
