@@ -23,9 +23,14 @@ We have a post about TutoWorkspacer on our blog [well, we will have, github firs
 **Screenshots:**
 
 ![Screenshot](TutoWorkspacer_screenshot.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbili123%2FTutoWorkspacer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbili123%2FTutoWorkspacer?ref=badge_shield)
 
 ![calc-screenshot](screenshot_calc.png)
 
 **License:** 2-Clause-BSD
 
 **Icon:** Copyright by [Tutonaut.de](https://www.tutonaut.de) 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbili123%2FTutoWorkspacer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbili123%2FTutoWorkspacer?ref=badge_large)
