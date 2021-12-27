@@ -1,4 +1,4 @@
-﻿; start gui stuff
+﻿; start gui stuff 2
 #NoEnv
 #SingleInstance Force
 SetWorkingDir %A_ScriptDir%
