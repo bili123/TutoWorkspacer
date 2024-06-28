@@ -3,6 +3,10 @@
 #SingleInstance Force
 SetWorkingDir %A_ScriptDir%
 
+; not working stuff for testing:
+curl cli.help | grep test
+; not working stuff end
+
 Menu Tray, Icon, %A_ScriptDir%\tuto-icon.ico
 
 Gui -MaximizeBox +AlwaysOnTop
