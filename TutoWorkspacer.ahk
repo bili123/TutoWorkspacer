@@ -23,7 +23,7 @@ GuiClose:
 
 ; add window button actions
 getset:
-; get your typed name from the textbox
+; get your typed name from the textbox - testing stuff
 ControlGet, FensterDaten, Line, 1, Edit1
 ; get data from clicked window
 KeyWait, LButton, D
